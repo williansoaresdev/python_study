@@ -12,3 +12,12 @@ Copie a pasta will_framework para a raíz de seu projeto, então para importar b
     will_framework_version()
 
 
+### Instancia um objeto da classe principal do framework
+
+    will_tools = will.WillTools()
+
+### Checa o status da instancia
+
+    # esperado 'Ready'
+    will_tools.get_status()
+

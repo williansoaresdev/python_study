@@ -10,12 +10,10 @@ Diversos estudos de codificação python separados por pasta, cada pasta possui 
 Gerador de números para a mega sena
 
 ## Em andamento: 
-Nenhum projeto em andamento...
+
+### will_project (will_framework)
+Framrwork que embaracará uma série de rotinas básicas do python para reaproveitando e orientadas a objetos, tais como manipulação de strings, manipulação de datas, números, chamadas de APIs, manipulação de arquivos e tratamento de XML ou JSON.
 
 ## A criar ainda
 
-### will_framework
-Framrwork que embaracará uma série de rotinas básicas do python para reaproveitando e orientadas a objetos, tais como manipulação de strings, manipulação de datas, números, chamadas de APIs, manipulação de arquivos e tratamento de XML ou JSON.
-
-### 
-Outros aqui...
+Ainda a definir...

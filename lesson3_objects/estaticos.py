@@ -1,0 +1,1 @@
+### metodos de classes e metodos estaticos ###
